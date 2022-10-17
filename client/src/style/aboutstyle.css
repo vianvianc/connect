@@ -1,0 +1,10 @@
+dd a:link {
+    text-decoration: underline;
+    color: inherit;
+    cursor: pointer;
+}
+
+dd a:visited {
+    text-decoration: inherit;
+    color: inherit;
+}
